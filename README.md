@@ -1,2 +1,2 @@
 # airline-reservation
-A console application that helps passengers make airline reservations.
+This is a console application that would help passengers make airline reservations. I developed this application using various searching and sorting algorithms. Many factors, including seating classes, baggages, and meal options are taken into account, and the appropriate limits are applied to make it realistic. This means that the application will behave differently based on how much unreserved space is available.
